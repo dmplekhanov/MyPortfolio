@@ -1,6 +1,10 @@
 # My Portfolio
 Some examples of data retrieving and analysis projects, which I fulfilled during my working expericence and as a hobby as well.
 
+Tools
+* Python: NumPy, Pandas, Seaborn, Matplotlib
+* Tableau
+
 # Project 1: Parsing statistical data from China
 * Project for getting data about budget revenues and expenditures from monthly announcements posted on the official website of the Ministry of Finance of the PRC 
 
