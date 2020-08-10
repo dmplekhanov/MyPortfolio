@@ -7,3 +7,8 @@ Some examples of data retrieving and analysis projects, which I fulfilled during
 Further information: [IPython Notebook](https://github.com/dmplekhanov/Parsing_MOF_data/blob/master/MOF_parse.ipynb)
 
 ![](/images/Budget_income.png)
+
+# Project 2: Drawing maps with Tableau
+
+
+# Project 3: 
