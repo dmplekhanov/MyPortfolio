@@ -14,7 +14,7 @@ Further information: [IPython Notebook](https://github.com/dmplekhanov/Parsing_M
 
 # Project 2: Drawing maps with Tableau
 
-<iframe src="https://public.tableau.com/views/DepInsurance/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450'></iframe>
+<iframe src="https://public.tableau.com/views/DepInsurance/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '650'></iframe>
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/DepInsurance/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450' scrolling='yes' ></iframe> 
 
