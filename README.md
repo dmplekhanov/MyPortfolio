@@ -1,5 +1,6 @@
 # My Portfolio
 Некоторые примеры проектов по извлечению, обработке и презентации данных, выполненных по работе, а также просто из исследовательского интереса.
+
 Some examples of projects on retrieving, analyzing and presenting data, which I fulfilled during my working expericence and as a hobby as well.
 
 Tools
