@@ -13,10 +13,9 @@ Further information: [IPython Notebook](https://github.com/dmplekhanov/Parsing_M
 
 ![](/images/Budget_income.png)
 
-## Project 2: Drawing maps with Tableau
+## Project 2: Dashboards in Tableau
+* Cross-country comparison of coverage limit set up in defferent deposit insurance systems around the world. Data refers to the year 2013.   
 
 <iframe src="https://public.tableau.com/views/DepInsurance/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '650'></iframe>
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/DepInsurance/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450' scrolling='yes' ></iframe> 
-
-## Project 3: 
+## Project 3: Drawing maps with Tableau
