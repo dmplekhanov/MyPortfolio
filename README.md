@@ -17,7 +17,9 @@ Further information: [IPython Notebook](https://github.com/dmplekhanov/Parsing_M
 ## Project 2: Dashboards in Tableau
 * Cross-country comparison of coverage limit set up in defferent deposit insurance systems around the world. Data refers to the year 2013.   
 
-<div style="align: center; margin-left: -150px;"> <iframe src="https://public.tableau.com/views/DepInsurance/Dashboard1?:embed=y&:display_count=y&:origin=viz_share_link" width="1000px" height="900px" frameborder="0"></iframe> </div> 
+<div style="align: center; margin-left: -150px;"> <iframe src="https://public.tableau.com/views/DepInsurance/Dashboard1?:embed=y&:display_count=y&:origin=viz_share_link" width="650" height="650"></iframe> </div> 
+
+
 
 
 ## Project 3: Drawing maps with Tableau
