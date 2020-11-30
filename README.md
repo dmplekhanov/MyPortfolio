@@ -20,3 +20,17 @@ Further information: [IPython Notebook](https://github.com/dmplekhanov/Parsing_M
 <iframe src="https://public.tableau.com/views/DepInsurance/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '650'></iframe>
 
 ## Project 3: Drawing maps with Tableau
+
+<iframe src="https://datalens.yandex/b0nby35ciiqo6" width = '650' height = '650'></iframe>
+
+function initializeViz() {
+var placeholderDiv = document.getElementById("tableauViz");
+var url = "http://public.tableau.com/views/WorldIndicators/GDPpercapita";
+var options = {
+ width: '600px',
+ height: '600px',
+ hideTabs: true,
+ hideToolbar: true,
+ };
+viz = new tableau.Viz(placeholderDiv, url, options);
+}
