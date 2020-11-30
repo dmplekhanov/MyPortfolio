@@ -24,5 +24,5 @@ Further information: [IPython Notebook](https://github.com/dmplekhanov/Parsing_M
 
 ## Project 3: Drawing maps with Tableau
 
-<iframe src="https://datalens.yandex/b0nby35ciiqo6" width = '650' height = '650'></iframe>
+
 
