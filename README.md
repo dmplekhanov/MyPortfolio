@@ -23,4 +23,5 @@ Further information: [IPython Notebook](https://github.com/dmplekhanov/Parsing_M
 ## Project 3: Drawing maps with Tableau
 
 
-
+<script src="https://www.example.com/javascripts/api/tableau-2.js"></script>
+<div id="tableauViz"></div>
